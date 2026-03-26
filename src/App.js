@@ -514,13 +514,13 @@ function App() {
               <h4>Thrylos India</h4>
               <p>Crafting digital excellence since 2020. Building the future, one project at a time.</p>
               <div className="social-links">
-                <a href="#" className="social-link">
+                <a href="/" className="social-link">
                   <ExternalLink size={20} />
                 </a>
                 <a href="https://instagram.com/thrylosindia" className="social-link">
                   <Globe size={20} />
                 </a>
-                <a href="#" className="social-link">
+                <a href="/" className="social-link">
                   <Mail size={20} />
                 </a>
               </div>
@@ -539,15 +539,15 @@ function App() {
               <a href="#about">About Us</a>
               <a href="#testimonials">Testimonials</a>
               <a href="#contact">Contact</a>
-              <a href="#">Careers</a>
+              <a href="/">Careers</a>
             </div>
 
             <div className="footer-section">
               <h4>Resources</h4>
-              <a href="#">Blog</a>
-              <a href="#">Case Studies</a>
-              <a href="#">Privacy Policy</a>
-              <a href="#">Terms of Service</a>
+              <a href="/">Blog</a>
+              <a href="/">Case Studies</a>
+              <a href="/">Privacy Policy</a>
+              <a href="/">Terms of Service</a>
             </div>
           </div>
 
